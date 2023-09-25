@@ -1,0 +1,9 @@
+app-prop:
+  actions:
+    register:
+      path: /register
+      method: POST
+    login:
+      path: /login
+      method: POST
+    
